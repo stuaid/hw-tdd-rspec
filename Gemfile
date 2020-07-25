@@ -12,6 +12,7 @@ group :development, :test do
   gem 'launchy'
   gem 'rspec-rails', '3.5.0'
   gem 'ZenTest', '4.12.0'
+  gem "factory_bot_rails"
 end
 
 group :test do
